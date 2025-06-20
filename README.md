@@ -8,3 +8,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lampochka112&theme=chartreuse_dark"/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lampochka112&theme=chartreuse_dark">
 <div/>
+
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/renpy/renpy-original.svg" />
+<div/>
