@@ -4,3 +4,4 @@
  <div/>
     
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lampochka112&theme=chartreuse_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lampochka112&theme=chartreuse_dark)
