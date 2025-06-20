@@ -6,5 +6,5 @@
 <div id="start" align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lampochka112&theme=chartreuse_dark"/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lampochka112&theme=chartreuse_dark"/>
-    <img scr="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lampochka112&theme=chartreuse_dark">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lampochka112&theme=chartreuse_dark">
 <div/>
