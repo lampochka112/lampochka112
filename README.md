@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://img.freepik.com/free-photo/lifestyle-scene-with-people-doing-regular-tasks-anime-style_23-2151002568.jpg?semt=ais_hybrid&w=740&q=80" height="100" width="250">
+ <img src="https://img.freepik.com/free-photo/lifestyle-scene-with-people-doing-regular-tasks-anime-style_23-2151002568.jpg?semt=ais_hybrid&w=740&q=80" height="160" width="250">
  <p> welcome to my account</p>
  <div/>
 
