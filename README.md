@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvsthemes.org%2Fwallpapers%2Fanime%2F69058-serial-experiments-lain.html&psig=AOvVaw3JUZCypXswu6MQqln8Wynd&ust=1753716444780000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPjD4IKt3Y4DFQAAAAAdAAAAABAU" height="100" width="250">
+ <img src="https://img.freepik.com/free-photo/lifestyle-scene-with-people-doing-regular-tasks-anime-style_23-2151002568.jpg?semt=ais_hybrid&w=740&q=80" height="100" width="250">
  <p> welcome to my account</p>
  <div/>
 
