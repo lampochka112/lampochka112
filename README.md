@@ -1,5 +1,5 @@
 <div align="center">
- <img src="komarev.com/ghpvc/?username=githubusernamehere&color=f58d6f" alt="vi" height="160" width="250">
+ <img width="140" src="https://komarev.com/ghpvc/?username=githubusernamehere&color=f58d6f" alt="views count"> <img width="140" src="https://komarev.com/ghpvc/?username=githubusernamehere&color=65d7c4" alt="views count">
  <p> welcome to my account</p>
  <div/>
 
